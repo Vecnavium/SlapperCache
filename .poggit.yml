@@ -1,0 +1,8 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/Vecnavium/SlapperCache
+build-by-default: true
+branches:
+- master
+projects:
+  SlapperCache:
+    path: ""
+...
